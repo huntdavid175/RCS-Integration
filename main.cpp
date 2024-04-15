@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	int age = 42;
+	int age = 43;
 	return 0;
 }
